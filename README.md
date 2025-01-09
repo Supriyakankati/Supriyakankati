@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Supriyakankati/Supriyakankati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m **Supriya Kankati**, a passionate developer and data scientist with a focus on AI, machine learning, and software development. 🚀
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On:
+- 🌟 Developing cutting-edge AI solutions for [MedusaGraph](https://github.com/j9650/MedusaGraph)
+- 📚 Enhancing my skills in **Java, React, and Spring Boot** for web and backend development
+- 🧪 Exploring AI in pharmaceutical drug discovery and electric vehicle charging station optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Learning:
+- Reinforcement learning for robotics and navigation
+- Advanced frontend development with **React** and **Redux**
+- Optimizing APIs with **Spring Boot**
+
+## 🤝 Let’s Connect:
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/supriyakankati/)
+- 📧 [Email](mailto:your-email@example.com)
