@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I’m **Supriya Kankati**, A recent SJSU graduate passionate about Java development, AI/ML enthusiastic and SAP certified full stack developer, blending academic expertise and professional experience to create impactful solutions!. 🚀
+ I’m **Supriya Kankati**, 
+ A recent SJSU graduate passionate about Java development, AI/ML enthusiastic and SAP certified full stack developer, blending academic expertise and professional experience to create impactful solutions!. 🚀
 
 ## 🔭 What I'm Currently Working On:
 - 🌟 Developing cutting-edge AI solutions for [MedusaGraph](https://github.com/j9650/MedusaGraph)
@@ -9,5 +10,5 @@ Welcome to my GitHub profile! I’m **Supriya Kankati**, A recent SJSU graduate 
 
 ## 🤝 Let’s Connect:
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- - 💼 [LinkedIn](https://www.linkedin.com/in/supriyakankati/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/supriyakankati/)
 - 📧 [Email](supriyakankati2@gmail.com)
