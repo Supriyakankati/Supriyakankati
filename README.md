@@ -9,5 +9,4 @@ Welcome to my GitHub profile! I’m **Supriya Kankati**, A recent SJSU graduate 
 
 ## 🤝 Let’s Connect:
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/supriya99/)
 - 📧 [Email](supriyakankati2@gmail.com)
