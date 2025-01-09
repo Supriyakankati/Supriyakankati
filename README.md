@@ -1,5 +1,9 @@
 # Hi there! 👋 I’m <span style="color:blue">🌟 Supriya Kankati**, 
 
+# Hi there! 👋
+
+<span style="color:blue">🌟 A recent SJSU graduate passionate about Java development and SAP ABAP, blending academic expertise and professional experience to create impactful solutions!</span>
+
  A recent SJSU graduate passionate about Java development, AI/ML enthusiastic and SAP certified full stack developer, blending academic expertise and professional experience to create impactful solutions!. 🚀
 
 ## 🔭 What I'm Currently Working On:
