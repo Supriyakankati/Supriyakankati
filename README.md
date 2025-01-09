@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Supriya Kankati!
+### Hi there! 👋 I’m Supriya Kankati!
 
 🌟 A recent SJSU graduate passionate about Java development, AI/ML enthusiastic and SAP certified full stack developer, blending academic expertise and professional experience to create impactful solutions!. 🚀
 
