@@ -2,10 +2,10 @@
 
 🌟 Recent graduate from San Jose State University with a specialization in Artificial Intelligence at san jose state university.
 
-🤖 AI/ML enthusiast  
-💻 Passionate about Java development  
-🔧 SAP-certified full-stack developer  
-🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
+- 🤖 AI/ML enthusiast  
+- 💻 Passionate about Java development  
+- 🔧 SAP-certified full-stack developer  
+- 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
 ## 🔭 What I'm Currently Working On:
 - 🌟 Developing cutting-edge AI solutions for [MedusaGraph](https://github.com/Supriyakankati/Optimization-of-Protein-Ligand-Molecular-Docking-using-AI-ML.git)
