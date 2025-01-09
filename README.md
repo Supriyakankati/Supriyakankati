@@ -1,6 +1,6 @@
 ### Hi there! 👋 I’m Supriya Kankati!
 
-🌟 A recent SJSU graduate with a passion for Java development, a keen interest in AI/ML, and certification as a SAP full-stack developer, combining academic knowledge and professional expertise to deliver impactful solutions! 🚀
+🌟 A recent SJSU graduate passionate about Java development, an AI/ML enthusiast, and a SAP-certified full-stack developer, blending academic expertise and professional experience to create impactful solutions! 🚀
 
 ## 🔭 What I'm Currently Working On:
 - 🌟 Developing cutting-edge AI solutions for [MedusaGraph](https://github.com/Supriyakankati/Optimization-of-Protein-Ligand-Molecular-Docking-using-AI-ML.git)
