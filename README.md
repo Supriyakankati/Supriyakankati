@@ -1,6 +1,6 @@
 ### Hi there! 👋 I’m Supriya Kankati!
 
-🌟 Recent graduate from San Jose State University with a specialization in Artificial Intelligence at san jose state university.
+🌟 Recent graduate from San Jose State University with a specialization in Artificial Intelligence at San Jose State University.
 
 - 🤖 AI/ML enthusiast  
 - 💻 Passionate about Java development  
