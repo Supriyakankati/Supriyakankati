@@ -4,7 +4,7 @@
 
 - 🤖 AI/ML enthusiast  
 - 💻 Passionate about Java development  
-- 🔧 SAP-certified full-stack developer  
+- 🔧 Certified full-stack developer  
 - 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
 ## 🔭 What I'm Currently Working On:
