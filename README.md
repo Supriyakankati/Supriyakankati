@@ -14,6 +14,5 @@
 - 🧪 Exploring AI in pharmaceutical drug discovery and electric vehicle charging station optimization.
 
 ## 🤝 Let’s Connect:
-- 🌐 [Portfolio](https://supriyakankati.github.io/#contact)
 - 💼 [LinkedIn](https://www.linkedin.com/in/supriya99/)
 - 📧 [Email](supriyakankati2@gmail.com)
