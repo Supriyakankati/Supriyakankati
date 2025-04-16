@@ -3,7 +3,8 @@
 🌟 Recent graduate from San Jose State University with a Specialization in Artificial Intelligence at San Jose State University.
 
 - 🤖 AI/ML enthusiast  
-- 💻 Passionate about Java development  
+- 💻 Passionate about Java development
+- ETL - Data Engineer 
 - 🔧 Certified full-stack developer  
 - 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
