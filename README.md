@@ -4,7 +4,7 @@
 
 - 🤖 AI/ML enthusiast  
 - 💻 Passionate about Java development
-- ETL - Data Engineer 
+- 🧪 ETL - Data Engineer 
 - 🔧 Certified full-stack developer  
 - 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
