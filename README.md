@@ -9,7 +9,7 @@
 - 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
 ## 🔭 What I'm Currently Working On:
-- 🌟  Developing advanced AI-driven capabilities for a FastAPI-based web crawler (github.com/Supriyakankati/Fastapi-Web-Crawler)
+- 🌟  Developing advanced AI-driven capabilities for a FastAPI-based web crawler (Supriyakankati/Fastapi-Web-Crawler)
 - 📚 Enhancing my skills in **Java, React, and Spring Boot** for web and backend development.
 - 🧪 Exploring AI in pharmaceutical drug discovery and electric vehicle charging station optimization.
 
