@@ -16,4 +16,3 @@
 ## 🤝 Let’s Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/supriya99/)
 - 📧 [Email](supriya.01.work@gmail.com)
-- 🤖 [Portfolio](https://supriyakankati.github.io/)
