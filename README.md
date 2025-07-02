@@ -4,8 +4,7 @@
 
 - 🤖 AI/ML enthusiast  
 - 💻 Passionate about Java development
-- 🧪 ETL - Data Engineer 
-- 🔧 Certified full-stack developer  
+- 🔧 Certified Backend developer  
 - 🎯 Blending academic expertise and professional experience to create impactful solutions! 🚀
 
 ## 🔭 What I'm Currently Working On:
