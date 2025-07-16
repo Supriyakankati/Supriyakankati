@@ -12,7 +12,7 @@
 - 📚 Enhancing my skills in **Java, React, and Spring Boot** for web and backend development.
 - 🧪 Exploring AI in pharmaceutical drug discovery and electric vehicle charging station optimization.
 
-## 🤝 Let’s Connect:
+## 🤝 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/supriya99/)
-- 📧 [Email](supriya.01.work@gmail.com)
-- 🌟 [Porfolio][https://supriyakankati.github.io]
+- 📧 [Email](mailto:supriya.01.work@gmail.com)
+- 🌟 [Portfolio](https://supriyakankati.github.io)
